@@ -1,0 +1,82 @@
+*
+{
+margin: 0;
+padding:0;
+font-family:century gothic;
+}
+h2  
+{
+font-family:cursive;
+background-color: tomato;
+color:#fff;
+text-align: center;
+padding: 20px
+}
+ 
+div
+{
+margin: 50px 0px auto;
+background-color:#fff;
+text-align: center;
+border: 1px solid #c3c3c3;
+width:100%;
+height:auto;
+
+}
+input
+{
+width: 200px;
+height: 25px;
+border: 1px solid #69bc54;
+display: block;
+margin:10px 100px;
+font-size:20px;
+outline:none;
+border-radius: 5px;
+}
+
+#view_table tr td input[type="submit"]
+{
+background-color:#69bc54;
+margin-bottom:10px;
+font-size:20px;
+
+}
+#view_table tr td input[type="submit"]:hover
+{
+background-color:tomato;
+margin-bottom:15px;
+font-size:20px;
+
+}
+a    
+{
+padding: 10px;
+margin: 20px;
+border-radius: 3px;
+background-color:#66c35a;
+text-decoration: none;
+display: inline-block;
+color: #fff;
+}
+a:hover
+{
+background-color: tomato;
+transition: 0.3s
+}
+
+#view_table
+{
+	border:1px solid #69bc54;
+	width:100%;
+	
+}
+#view_table tr
+{
+	background-color:lightgrey;
+	height:30px;
+	font-size:20px;	
+}
+
+
+
